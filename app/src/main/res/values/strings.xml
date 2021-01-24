@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="todo">todo</string>
+    <string name="text_name">NAME</string>
+    <string name="spinner_urgency">Urgency</string>
+    <string name="button_add">ADD</string>
+    <string name="button_cancel">CANCEL</string>
+</resources>
